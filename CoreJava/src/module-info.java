@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author technOrbit
+ *
+ */
+module CoreJava {
+}
