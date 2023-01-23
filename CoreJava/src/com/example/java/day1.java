@@ -12,26 +12,19 @@ public class day1 {
 		System.out.println(x / y);
 		System.out.println(x % y);
 
-		//int i = 100;
-//		int j = 200;
-//		System.out.println(i + j);
-//		System.out.println(i - j);
-//		System.out.println(i * j);
-//		System.out.println(i / j);
-//		System.out.println(i % j);
 
-		Calculator(120, 34);
-		Calculator(120, 15);
+
+		Calculator(150,45);
+		Calculator(200, 25);
 		
 		Cal() ;
 		Cal() ;
-		Cal() ;
-		Cal() ;
+
 		
-		Cal(23,45);
-		Cal(233,453);
-		Cal(233,453);
-		Cal(2333,4533);
+		Cal(45,45);
+		Cal(100,243);
+		Cal(330,453);
+		Cal(223,4533);
 		
 		int s = CalB(34,45);
 		System.out.println(s);
