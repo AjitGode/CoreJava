@@ -1,4 +1,4 @@
-package com.example.java;
+package java;
 
 public class day1 {
 
