@@ -1,4 +1,4 @@
-package java;
+package core;
 
 import java.util.Scanner;
 import java.util.HashSet;

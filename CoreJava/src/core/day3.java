@@ -1,4 +1,4 @@
-package java;
+package core;
 
 public class day3 {
 
