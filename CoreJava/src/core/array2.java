@@ -69,17 +69,29 @@ public class array2 {
 		
 		// program 6 
 		
-		int [] numbers = {111,23,45,43,67,89};
+//		int [] numbers = {111,23,45,43,67,89};
+//		
+//		float avg = 0;
+//		int sum = 0;
+//		
+//		for(int j:numbers) {
+//			sum = sum + j;
+//		}
+//		
+//		 avg = sum/numbers.length;
+//		 System.out.println(avg);
 		
+		int [] numbers = {12,34,56,78,90};
 		float avg = 0;
 		int sum = 0;
 		
-		for(int j:numbers) {
-			sum = sum + j;
+		for(int s:numbers) {
+			
+			sum= sum + s;
+			
 		}
-		
-		 avg = sum/numbers.length;
-		 System.out.println(avg);
+		avg = sum/numbers.length;
+		System.out.println(avg);
 	}
 
 }
